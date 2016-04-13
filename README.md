@@ -1,4 +1,4 @@
-go-horenso-helper
-==================
+go-horenso-reporter-helper
+===========================
 
-helper methods for [horenso](https://github.com/Songmu/horenso) reporter.
+Helper methods for [horenso](https://github.com/Songmu/horenso) reporter.
